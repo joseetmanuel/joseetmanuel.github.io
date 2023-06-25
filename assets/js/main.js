@@ -13,6 +13,11 @@
     }
   }
 
+  const mail = () =>{
+    alert('Esto aun no hace nada')
+
+    // If the user clicks OK in the
+  }
   /**
    * Easy event listener function
    */
